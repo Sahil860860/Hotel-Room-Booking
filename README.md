@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+ module install -
+    i. REACT-ICONS: npm install react-icons
+    ii. REACT-ROUTER-DOM: npm i react-router-dom --save
+
 ### `npm start`
 
 Runs the app in the development mode.\
